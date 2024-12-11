@@ -8,7 +8,7 @@ Rating Performance analysis  of every month of ana organization
 - Which month has highest Performance
 - Which month has lowest Performance
 - For which criteria they have scored highest on an avearge
-- Dashboard <a href="">View dashboard</a>
+- Dashboard <a href="https://github.com/Vijayalaxmi410/Rating-Performancr-analysis-of-an-organization/blob/main/Screenshot%20(13).png">View dashboard</a>
 
 
 
