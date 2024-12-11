@@ -13,7 +13,7 @@ Rating Performance analysis  of every month of ana organization
 - Dataset is PDF input, loaded into power bi
 - Make sure that data is consistent and clean with respect to datatype,data format and values used
 - created interactive dashboard of performance analysis
-# Dashboatrd
+# Dashboard
 ![Screenshot (13)](https://github.com/user-attachments/assets/b62eabfb-3c42-4883-8e84-d2011c34c9ad)
 # Project Insight
 - Analysis revealed a positive trend, with performance metrics showing continuous improvement across all months
